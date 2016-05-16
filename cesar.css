@@ -1,0 +1,38 @@
+
+body{
+  color:blue;
+  background-color: white;
+}
+
+
+#wrapperDiv{
+  width:906px;
+  height:1000px;
+  border: solid black 3px;
+  background-color: pink;
+  margin:auto;
+}
+
+#headerDiv{
+  width:900px;
+  height:162px;
+  border: solid black 3px;
+  background-color: pink;
+  margin:auto;
+}
+
+#navDiv{
+  width:900px;
+  height:50px;
+  border: solid black 3px;
+  background-color: black;
+  margin:auto;
+}
+
+.src{
+  width: 50px;
+  height: 50px;
+  border: solid black 3px;
+  margin: block;
+
+}
