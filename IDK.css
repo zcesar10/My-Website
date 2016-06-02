@@ -1,0 +1,86 @@
+body {
+	background-image: url("Dance.gif");
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+	margin:auto;
+}
+#WrapperDiv {
+	height: 935px;
+	width: 820px;
+	position: relative;
+	margin: auto;
+	margin-top: 30px;
+	background-color: red;
+	border: solid black 5px;
+	box-shadow: 3px 3px 3px #443C3F;
+}
+
+#headerDiv {
+	height: 100px;
+	width:820px;
+	position:floating;
+	float: left;
+	background-color: #cc33ff;
+}
+
+#navDiv {
+	color: white;
+	height: 790px;
+	width: 120px;
+	position: floating;
+	float: left;
+	background-color: #ff00ff;
+}
+
+#bodyDiv {
+	height: 790px;
+	width: 700px;
+	position: float;
+	float: right;
+	background-color: #ffffff;
+}
+
+#footerDiv {
+  height: 45px;
+    width: 820px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-right: 200px;
+    float: left;
+    background-color:#cc33ff;
+
+}
+
+.buttDiv {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+a{
+	color: #8D6D78;
+	text-decoration: none;
+}
+
+a:link, a:visited {
+    background-color: #D0AFBA;
+    color: white;
+    padding: 10px 10px 9px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #DAC5CC;
+}
+
+li{
+	margin-top: 10px;
+}
+
+p{
+	color:black;
+}
